@@ -1,3 +1,8 @@
+---
+permalink: /index.html
+layout: default
+---
+
 My personal jekyll starter repo.
 
 Features
